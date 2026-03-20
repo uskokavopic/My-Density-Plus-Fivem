@@ -4,7 +4,7 @@ game 'gta5'
 name 'my_density_plus'
 author 'Uskokavopic'
 description 'Population density management (profiles + zones + crowd scaling + ymaps)'
-version '1.0.2'
+version '1.0.3'
 
 lua54 'yes'
 use_experimental_fxv2_oal 'yes'
